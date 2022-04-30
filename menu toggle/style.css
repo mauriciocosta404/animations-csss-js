@@ -1,0 +1,10 @@
+.menu{
+    display: none;
+    
+}
+.show{
+    display: block;
+}
+#btn{
+    cursor: pointer;
+}
